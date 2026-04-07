@@ -1,0 +1,1 @@
+['title', 'url', 'district', 'subcategory', 'price_lkr', 'bedrooms', 'bathrooms', 'land_size_perches', 'floor_area_sqft', 'scraped_at']

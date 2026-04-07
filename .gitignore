@@ -1,0 +1,11 @@
+data/
+data/*.csv
+data/*.log
+data/*.json
+data/test_*.log
+data/test_*.txt
+*.db
+model/*.pkl
+__pycache__/
+*.pyc
+.env
